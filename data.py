@@ -1,0 +1,7 @@
+import math
+WINDOW_HEIGHT : int = 800
+WINDOW_WIDTH : int = 1200
+GAME_FPS : int = 60
+LINE_Y : int = WINDOW_HEIGHT - 100
+BLACK = (0,0,0)
+WHITE = (255,255,255)
